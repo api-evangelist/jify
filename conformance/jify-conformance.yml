@@ -1,0 +1,13 @@
+generated: '2026-07-19'
+method: searched
+source: https://www.jify.co/
+standards:
+- id: iso-27001
+  conforms: true
+  evidence: "jify.co homepage states the platform is ISO 27001 certified"
+- id: cisa-certified
+  conforms: true
+  evidence: "jify.co homepage states the platform is CISA certified"
+- id: appknox-security-tested
+  conforms: true
+  evidence: "jify.co homepage states the app is independently security-tested by Appknox"
