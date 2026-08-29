@@ -7,6 +7,17 @@ description: 'Jify is an India-based financial wellness platform (part of the Mo
   budgeting and expense tracking, delivered through Android and iOS apps. Jify is a consumer / B2B2C fintech
   app and does not currently publish a public developer API; this profile tracks its identity, domain-security
   posture, and published compliance claims (ISO 27001, CISA-certified, independently tested by Appknox).'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
